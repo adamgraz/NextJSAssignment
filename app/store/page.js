@@ -6,7 +6,6 @@ export default function Store() {
     <main>
       <h1>Store</h1>
       <SearchBar />
-      {/* TODO: search bar component that filters fakestoreapi.com products */}
       <Link href="/">Back home</Link>
     </main>
   );
